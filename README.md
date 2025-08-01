@@ -18,6 +18,7 @@
 - [egebilge.dev](https://egebilge.dev) - Personal Portfolio
 - [ai.codebiy.com](https://ai.codebiy.com) - AI Content Blog Platform
 - [templates.codebiy.com](https://templates.codebiy.com) - Premium Developer Templates
+- [petorilab.vercel.app](https://petorilab.vercel.app/) - Modern E-commerce Platform
 - AI README Generator (in development)
 
 ## 💼 What I Do
