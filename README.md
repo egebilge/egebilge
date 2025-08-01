@@ -12,7 +12,7 @@
 - **Frontend:** React, Next.js, TypeScript, Tailwind CSS, React Native
 - **Backend:** Node.js, Supabase, PostgreSQL  
 - **AI Integration:** OpenAI API, Claude API
-- **DevOps:** Docker, Vercel, Hetzner
+- **DevOps:** Docker, Vercel, Hetzner, Dokploy
 
 ## 🚀 Active Projects
 - [egebilge.dev](https://egebilge.dev) - Personal Portfolio
