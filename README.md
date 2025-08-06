@@ -1,4 +1,4 @@
-# Hi, I'm Ege Bilge 👨‍💻
+# Hi, I'm Ege 👨‍💻
 
 **Full Stack Developer | Building AI-Powered Tools for Developers**
 
