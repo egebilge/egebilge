@@ -30,6 +30,13 @@ Production-ready starter templates for developers.
 - **Features:** Clean architecture, reusable components, documentation
 - **Purpose:** Help developers start projects with solid foundations
 
+### 🔊 [AI Audio Analysis Platform](https://audio.codebiy.com)
+AI-powered tool for advanced audio analysis – currently in development.  
+- **Tech Stack:** React, Node.js, OpenAI, Python  
+- **Features:** Timestamped transcription, speaker & sentiment analysis, support for 7 languages  
+- **Use Case:** Ideal for researchers, podcasters, and developers working with audio data  
+- **Status:** Beta – open to feedback
+
 ### 🚧 AI README Generator (In Development)
 Working on a tool to help developers create better GitHub READMEs using AI.
 - **Tech Stack:** React, Claude API, Node.js
