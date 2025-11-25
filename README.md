@@ -1,101 +1,53 @@
-# Hi, I'm Ege 👨‍💻
+# Hey, I'm Ege 👋
 
-**Full Stack Developer | Building AI-Powered Tools for Developers**
+Full Stack Developer building AI-powered tools and developer platforms at **[codebiy.com](https://codebiy.com)**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-egebilge.dev-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://egebilge.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/orhan-ege-bilge)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@egebilge.dev)
+[![Portfolio](https://img.shields.io/badge/egebilge.dev-4285F4?style=flat-square&logo=google-chrome&logoColor=white)](https://egebilge.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/orhan-ege-bilge)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:contact@egebilge.dev)
 
-## 🎯 About Me
+---
 
-I'm a Full Stack Developer with 5+ years of experience, specializing in modern web applications and AI integrations. Currently focused on building developer tools and production-ready templates that help teams ship faster.
+## What I'm Building
 
-## 💼 Featured Projects
+| Project | Description |
+|---------|-------------|
+| **[Tempc](https://tempc.codebiy.com)** | Premium Next.js templates with one-time purchase |
+| **[Templates](https://templates.codebiy.com)** | Production-ready starter kits for developers |
+| **[Invo](https://invo.codebiy.com)** | Professional invoicing platform for freelancers |
+| **[Neural Nexus](https://ai.codebiy.com)** | AI community platform for insights and networking |
+| **[Audio Learning](https://audio.codebiy.com)** | Interactive audio courses for web development |
+| **[ByInterview](https://byinterview.codebiy.com)** | Interview prep with curated questions & AI feedback |
 
-### 🤖 [AI Content Blog Platform](https://ai.codebiy.com)
-Full-stack platform for AI-powered content generation and management.
-- **Tech Stack:** Next.js, TypeScript, OpenAI API, Supabase
-- **Features:** User authentication, content generation, responsive design
-- **Status:** Live and actively maintained
+## Tech Stack
 
-### 🛍️ [Modern E-commerce Platform](https://petorilab.vercel.app/)
-Clean, modern e-commerce solution with focus on user experience.
-- **Tech Stack:** React, Node.js, PostgreSQL
-- **Features:** Product catalog, cart functionality, responsive design
-- **Status:** Demo available
-
-### 📦 [Developer Templates](https://templates.codebiy.com)
-Production-ready starter templates for developers.
-- **Tech Stack:** Next.js, Tailwind CSS, TypeScript
-- **Features:** Clean architecture, reusable components, documentation
-- **Purpose:** Help developers start projects with solid foundations
-
-### 🔊 [AI Audio Analysis Platform](https://audio.codebiy.com)
-AI-powered tool for advanced audio analysis – currently in development.  
-- **Tech Stack:** React, Node.js, OpenAI, Python  
-- **Features:** Timestamped transcription, speaker & sentiment analysis, support for 7 languages  
-- **Use Case:** Ideal for researchers, podcasters, and developers working with audio data  
-- **Status:** Beta – open to feedback
-
-### 🚧 AI README Generator (In Development)
-Working on a tool to help developers create better GitHub READMEs using AI.
-- **Tech Stack:** React, Claude API, Node.js
-- **Goal:** Simplify documentation process for developers
-
-## 🛠️ Technical Skills
-
-### Frontend
+**Frontend**<br>
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
-### Backend
+**Mobile**<br>
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
+
+**Backend**<br>
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 
-### AI & Tools
+**AI**<br>
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![Claude API](https://img.shields.io/badge/Claude_API-7C3AED?style=flat-square&logo=anthropic&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-7C3AED?style=flat-square&logo=anthropic&logoColor=white)
 
-### Deployment
+**DevOps**<br>
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Hetzner](https://img.shields.io/badge/Hetzner-D50C2D?style=flat-square&logo=hetzner&logoColor=white)
-![Dokploy](https://img.shields.io/badge/Dokploy-2088FF?style=flat-square&logo=deploy&logoColor=white)
 
-## 🎯 What I Focus On
+## About
 
-- **Clean Code:** Writing maintainable, well-documented code following SOLID principles
-- **User Experience:** Building intuitive interfaces that users love
-- **Performance:** Optimizing for speed and efficiency
-- **Security:** Following best practices for secure applications
-- **Continuous Learning:** Staying updated with latest technologies and best practices
-
-## 🤝 Professional Experience
-
-- **5+ years** in full stack development
-- Experience with **technical leadership** and mentoring
-- Focus on **clean architecture** and code quality
-- Building **AI-integrated** applications
-- Creating and selling **developer templates**
-
-## 📫 Let's Connect
-
-I'm always interested in discussing new opportunities, especially in:
-- AI integration projects
-- Full stack development roles
-- Technical consulting
-- Open source collaboration
-
-**📧 Email:** contact@egebilge.dev  
-**💼 LinkedIn:** [linkedin.com/in/orhan-ege-bilge](https://linkedin.com/in/orhan-ege-bilge)  
-**🌐 Portfolio:** [egebilge.dev](https://egebilge.dev)
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=egebilge&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
+- 7+ years full stack experience
+- Focused on clean architecture & developer experience
+- Building tools that help developers ship faster
+- Available for consulting and collaboration
