@@ -15,6 +15,7 @@ Full Stack Developer building AI-powered tools and developer platforms at **[cod
 | **[Tempc](https://tempc.codebiy.com)** | Premium Next.js templates with one-time purchase |
 | **[Templates](https://templates.codebiy.com)** | Production-ready starter kits for developers |
 | **[Invo](https://invo.codebiy.com)** | Professional invoicing platform for freelancers |
+| **[Portaleb](https://portaleb.com)** | Client portal for agencies with project management & file sharing |
 | **[Neural Nexus](https://ai.codebiy.com)** | AI community platform for insights and networking |
 | **[Audio Learning](https://audio.codebiy.com)** | Interactive audio courses for web development |
 | **[ByInterview](https://byinterview.codebiy.com)** | Interview prep with curated questions & AI feedback |
