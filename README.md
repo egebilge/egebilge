@@ -13,6 +13,7 @@ Full Stack Developer building AI-powered tools and developer platforms at **[cod
 | Project | Description |
 |---------|-------------|
 | **[Portaleb](https://portaleb.com)** | Client portal for agencies with project management & file sharing |
+| **[AI News Hub](https://ainewshub.codebiy.com)** | AI news aggregation platform with latest research & industry insights |
 | **[Tempc](https://tempc.codebiy.com)** | Premium Next.js templates with one-time purchase |
 | **[Templates](https://templates.codebiy.com)** | Production-ready starter kits for developers |
 | **[Invo](https://invo.codebiy.com)** | Professional invoicing platform for freelancers |
