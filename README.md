@@ -1,6 +1,6 @@
 # Ege Bilge
 
-Full Stack Developer — building AI-powered tools and developer platforms at **[codebiy.com](https://codebiy.com)**
+Full Stack Developer & Founder of **[codebiy.com](https://codebiy.com)** — building AI-powered tools and developer platforms.
 
 [![Portfolio](https://img.shields.io/badge/egebilge.dev-4285F4?style=flat-square&logo=google-chrome&logoColor=white)](https://egebilge.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/orhan-ege-bilge)
