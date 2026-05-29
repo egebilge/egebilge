@@ -12,6 +12,7 @@ Software Engineer & Founder of **[codebiy.com](https://codebiy.com)** — buildi
 
 | Project | Description |
 |---------|-------------|
+| **[Papyro](https://papyro.dev)** | Self-hosted team workspace (boards, notes, chat) — GDPR-compliant with full data control |
 | **[Portaleb](https://portaleb.com)** | Client portal for agencies — project management & file sharing |
 | **[AI News Hub](https://ainewshub.codebiy.com)** | AI news aggregation with latest research & industry insights |
 | **[Tempc](https://tempc.codebiy.com)** | Premium Next.js templates, one-time purchase |
